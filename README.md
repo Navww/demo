@@ -1,2 +1,3 @@
 # demo
-This is just for using git and github
+This is demo for git and github class
+
